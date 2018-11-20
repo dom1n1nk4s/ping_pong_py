@@ -13,7 +13,7 @@ Processing 3.x.x https://processing.org/download/
 
 
 ## Setup:
-1. Download Processing.
+1. Install Processing.
 
 2. Install Python mode.
 
@@ -22,4 +22,4 @@ Processing 3.x.x https://processing.org/download/
 
 3. Clone repository.
 
-4. Open the .pyde file using processing. (CTRL+O)
+4. Open the .pyde file using Processing. (CTRL+O)
