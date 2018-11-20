@@ -18,6 +18,5 @@ Python mode (download inside processing app)
 2. Install Python mode.
 ![screenshot_1](https://user-images.githubusercontent.com/36505835/48791505-8c064380-ecfa-11e8-99df-e38a3af56c4a.png)
 ![image](https://user-images.githubusercontent.com/36505835/48791555-a6402180-ecfa-11e8-8046-b8856cb7cf6e.png)
-
-
-Clone repository.
+3. Clone repository.
+4. Open the .pyde file using processing. (CTRL+O)
